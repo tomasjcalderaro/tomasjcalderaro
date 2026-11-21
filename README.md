@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy desarrollador frontend freelance. Desde 2025 diseño, desarrollo y despliego sitios web responsivos para clientes reales, de punta a punta. Me gusta que lo que hago funcione bien y se vea bien: por eso mido el rendimiento, cuido el diseño y trabajo con TypeScript.
+Soy desarrollador frontend freelance. Desde 2025 diseño, desarrollo y despliego sitios web responsivos para clientes reales, de punta a punta. Me gusta que lo que hago funcione bien y se vea bien: por eso mido el rendimiento y cuido el diseño. 
 
-Hoy estoy **aprendiendo backend** (Node.js y Express) para dar el salto a full stack. Ya completé el curso de SQL de midudev (112 ejercicios y 7 exámenes) y lo estoy llevando a proyectos propios.
+Hoy estoy **aprendiendo backend** (Node.js y Express) para dar el salto a full stack.
 
 ## 🛠️ Tecnologías
 
